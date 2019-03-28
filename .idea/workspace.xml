@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="790598a6-8f0b-462f-b0d7-fd59887264e2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-Anatole" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-Anatole" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hexo-theme-Anatole/_config.sample.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-Anatole/_config.sample.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hexo-theme-Anatole/languages/pt-BR.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hexo-theme-Anatole/layout/category.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-Anatole/layout/category.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hexo-theme-Anatole/layout/mixins.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-Anatole/layout/mixins.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hexo-theme-Anatole/layout/partial/nav.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-Anatole/layout/partial/nav.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hexo-theme-Anatole/source/css/blog_basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-Anatole/source/css/blog_basic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-melody" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-melody" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hexo-theme-melody/layout/category.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-melody/layout/category.pug" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -268,12 +270,12 @@
       <workItem from="1553693905622" duration="5186000" />
       <workItem from="1553738088403" duration="598000" />
       <workItem from="1553740923408" duration="154000" />
-      <workItem from="1553741152589" duration="469000" />
+      <workItem from="1553741152589" duration="700000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21852000" />
+    <option name="totallyTimeSpent" value="22083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -290,7 +292,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.17710844" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3286119" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
